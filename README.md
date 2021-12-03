@@ -1,0 +1,1 @@
+Run <code>./gradlew  run --args="This string will be hashed by sha1"</code> to hash string.
